@@ -1,4 +1,4 @@
-![Angular Seed Advanced](https://cdn.filestackcontent.com/LSWpUEEGQiOdCpv9t6Ri?v=0)
+![Bakgat Seed](https://image.ibb.co/cAp4JF/bakgat_seed.png)
 
 [![Angular Style Guide](https://mgechev.github.io/angular2-style-guide/images/badge.svg)](https://angular.io/styleguide)
 [![Build Status](https://travis-ci.org/NathanWalker/angular-seed-advanced.svg?branch=master)](https://travis-ci.org/Nate.hanWalker/angular-seed-advanced)
