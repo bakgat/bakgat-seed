@@ -38,6 +38,8 @@ ts-node
 #IDE configuration files
 .idea
 *.iml
+.vscode/*.sql
+.vscode/symbols.json
 .vscode/angulardoc.json
 
 dist
