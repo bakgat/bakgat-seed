@@ -1,13 +1,15 @@
 {
   "compilerOptions": {
-    "target": "es5",
+    "target": "es6",
     "module": "commonjs",
     "declaration": false,
     "removeComments": true,
     "noLib": false,
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
-    "lib": ["es2015"],
+    "lib": [
+      "es6"
+    ],
     "sourceMap": true,
     "pretty": true,
     "allowUnreachableCode": false,
@@ -22,7 +24,8 @@
     ],
     "types": [
       "node",
-      "jasmine"
+      "core-js",
+      "hammerjs"
     ]
   },
   "files": [
